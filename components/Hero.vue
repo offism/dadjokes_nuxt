@@ -67,13 +67,13 @@ export default {
     h1 {
       color: #fff;
       font-size: 64px;
-      font-weight: 200;
+      font-weight: 100;
       margin-bottom: 8px;
       @media (min-width: 750px) {
         font-size: 84px;
       }
       span {
-        font-weight: 500;
+        font-weight: 600;
       }
     }
     .button {
