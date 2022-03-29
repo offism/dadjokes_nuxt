@@ -1,5 +1,5 @@
 <template>
-  <h2>salom</h2>
+  <button>salom</button>
 </template>
 
 <script>
