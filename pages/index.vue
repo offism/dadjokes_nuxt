@@ -1,9 +1,9 @@
 <template>
-  <button>salom</button>
+  <div class="home">
+    <Hero />
+  </div>
 </template>
 
 <script>
-export default {
-  name: "IndexPage",
-};
+export default {};
 </script>
